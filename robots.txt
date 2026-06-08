@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pingpaid-legal-contracts.pages.dev/sitemap.xml
